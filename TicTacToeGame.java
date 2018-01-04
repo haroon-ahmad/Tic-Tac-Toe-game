@@ -1,7 +1,5 @@
 /*Haroon Ahmad
- * L134122
- * AP-A
- */
+*/
 import java.io.*;   
 
 public class TicTacToeGame {
@@ -158,7 +156,7 @@ class GameBoard{
 				return 'N';//Other wise do next turn
 					
 			}
-		/**** implement here ********/
+	
 		
 		return 'N';
 		}
@@ -282,7 +280,7 @@ class GameBoard{
 			{
 				return -1;
 			}
-		/**** Implement code here ********/
+	
 		
 		return 0;
 		}
